@@ -1,2 +1,4 @@
 # TrainingsRepo
 # test
+
+nowa linia
